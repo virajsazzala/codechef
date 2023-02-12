@@ -1,2 +1,2 @@
 # codechef
-my solutions to codechef problems
+my solutions to codechef practise problems
